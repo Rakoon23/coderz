@@ -1,0 +1,1755 @@
+{
+  "topics": {
+    "1": {
+      "topicID": "introduction-to-software",
+      "title": "Introduction to software",
+      "noq": 10
+    },
+    "2": {
+      "topicID": "introduction-to-Algorithm",
+      "title": "Introduction to Algorithm",
+      "noq": 10
+    },
+    "3": {
+      "topicID": "OOPI",
+      "title": "Object Oriented Programming I",
+      "noq": 10
+    },
+    "4": {
+      "topicID": "software-requirement-analysis",
+      "title": "Software requirement analysis",
+      "noq": 10
+    },
+    "5": {
+      "topicID": "data-structures",
+      "title": "Data structures",
+      "noq": 10
+    },
+    "6": {
+      "topicID": "computer-architecture",
+      "title": "Computer architecture",
+      "noq": 10
+    },
+    "7": {
+      "topicID": "OOPII",
+      "title": "Object Oriented Programming II",
+      "noq": 10
+    },
+    "8": {
+      "topicID": "software-design-and-architecture",
+      "title": "Software design and architecture",
+      "noq": 10
+    },
+    "9": {
+      "topicID": "software-construction",
+      "title": "Software construction",
+      "noq": 10
+    },
+    "10": {
+      "topicID": "database-management-systems",
+      "title": "Database management systems",
+      "noq": 10
+    },
+    "11": {
+      "topicID": "Null",
+      "title": "New Quiz Coming Soon",
+      "noq": 0
+    },
+    "12": {
+      "topicID": "Null",
+      "title": "New Quiz Coming Soon",
+      "noq": 0
+    },
+    "13": {
+      "topicID": "Null",
+      "title": "New Quiz Coming Soon",
+      "noq": 0
+    },
+    "14": {
+      "topicID": "Null",
+      "title": "New Quiz Coming Soon",
+      "noq": 0
+    }
+  },
+
+
+  "quizzes": {
+    "introduction-to-software": {
+      "questions": [
+        {
+          "title": "What is Software?",
+          "options": [
+            {
+              "title": "Hardware Components."
+            },
+            {
+              "title": "A set of instructions that tell a computer what to do.",
+              "correct": true
+            },
+            {
+              "title": "Physical devices such as keyboards and mice."
+            }
+          ]
+        },
+        {
+          "title": "What is an example of everyday Software the you use?",
+          "options": [
+            {
+              "title": "Microsoft Word.",
+              "correct": true
+            },
+            {
+              "title": "A Chair."
+            },
+            {
+              "title": "A Refrigerator."
+            }
+          ]
+        },
+        {
+          "title": "Explain the difference between System Software and Application Software",
+          "options": [
+            {
+              "title": "System software manages computer hardware, while application software performs specific tasks.",
+              "correct": true
+            },
+            {
+              "title": "Application software controls system hardware."
+            },
+            {
+              "title": "Both are the same thing."
+            }
+          ]
+        },
+        {
+          "title": "What is the role of a compiler in software development?",
+          "options": [
+            {
+              "title": "It generates electricity for computers."
+            },
+            {
+              "title": "It translates high-level programming code into machine code.",
+              "correct": true
+            },
+            {
+              "title": "It designs user interfaces."
+            }
+          ]
+        },
+        {
+          "title": "Describe the difference between procedural programming and object-oriented programming.",
+          "options": [
+            {
+              "title": "They are identical concepts."
+            },
+            {
+              "title": "Procedural focuses on functions, while object-oriented focuses on objects and classes.",
+              "correct": true
+            },
+            {
+              "title": "Object-Oriented programming is an outdated methodology."
+            }
+          ]
+        },
+        {
+          "title": "How does garbage collection work in programming languages and why is it important?",
+          "options": [
+            {
+              "title": "Garbage collection refers to recycling paper in the office."
+            },
+            {
+              "title": "It manages memory by automatically reclaiming unused resources, improving efficiency.",
+              "correct": true
+            },
+            {
+              "title": "Garbage collection is irrelevant in modern programming languages."
+            }
+          ]
+        },
+        {
+          "title": "Explain the concept of design patterns in Software Development.",
+          "options": [
+            {
+              "title": "Templates used for graphic design."
+            },
+            {
+              "title": "A tool for debugging code."
+            },
+            {
+              "title": "Best practices and reuseable solutions to common problems in Software Design.",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "Discuss the benefits and challenges of using microservices architecture in Software Development.",
+          "options": [
+            {
+              "title": "Microservices are too complex and offer no benefits."
+            },
+            {
+              "title": "They improve scalability and enable independent deployment, but may introduce complexity.",
+              "correct": true
+            },
+            {
+              "title": "Microservices architecture is only suitable for small projects."
+            }
+          ]
+        },
+        {
+          "title": "What is the significance of DevOps in the software development lifecycle?",
+          "options": [
+            {
+              "title": "DevOps is trendy buzzword with no real impact."
+            },
+            {
+              "title": "DevOps enhances collaboration between development and operations, streamlining they development lifecycle.",
+              "correct": true
+            },
+            {
+              "title": "DevOps is only relevant for large enterprises."
+            }
+          ]
+        },
+        {
+          "title": "Compare and contrast static and dynamic code analysis techniques, highlighting their importance in ensuring Software Security.",
+          "options": [
+            {
+              "title": "Static analysis focuses on code behaviour, while dynamic analysis examines code structure."
+            },
+            {
+              "title": "Both techniques are unnecessary for ensuring Software Security."
+            },
+            {
+              "title": "Static analysis reviews code with executing it, while dynamic analysis assesses code during runtime for vulnerabilities.",
+              "correct": true
+            }
+          ]
+        }
+      ]
+    },
+
+
+    "introduction-to-Algorithm": {
+      "questions": [
+        {
+          "title": "What is an Algorithm?",
+          "options": [
+            {
+              "title": "A software bug."
+            },
+            {
+              "title": "A step-by-step procedure for solving a problem",
+              "correct": true
+            },
+            {
+              "title": "Computer memory."
+            }
+          ]
+        },
+        {
+          "title": "Which of the following is not an example of an Algorithm?",
+          "options": [
+            {
+              "title": "Making a sandwich."
+            },
+            {
+              "title": "Finding the maximum value in an array."
+            },
+            {
+              "title": "Sorting a list of numbers.",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "What is the time complexity of an Algorithm?",
+          "options": [
+            {
+              "title": "The maount of time it takes to write an Algorithm."
+            },
+            {
+              "title": "The amount of time it takes for the Algorithm to run in terms of input size.",
+              "correct": true
+            },
+            {
+              "title": "The number of steps in the Algorithm"
+            }
+          ]
+        },
+        {
+          "title": "Which sorting Algorithm has teh best average-case time complexity?",
+          "options": [
+            {
+              "title": "Quick Sort",
+              "correct": true
+            },
+            {
+              "title": "Bubble Sort"
+            },
+            {
+              "title": "Insertion Sort"
+            }
+          ]
+        },
+        {
+          "title": "What is the concept of (Big-O) notation used for in algorithm analysis?",
+          "options": [
+            {
+              "title": "Describing the upper bound of an algorithm's growth rate.",
+              "correct": true
+            },
+            {
+              "title": "Representing the size of input data."
+            },
+            {
+              "title": "Calculating the average execution time of an algorithm."
+            }
+          ]
+        },
+        {
+          "title": "In algorithm design, what is the (greedy) approach?",
+          "options": [
+            {
+              "title": "Choosing the most efficient algorithm."
+            },
+            {
+              "title": "Making locally optimal choices at each stage with the hope of finding a global optimum",
+              "correct": true
+            },
+            {
+              "title": "Always choosing the longest path in a graph."
+            }
+          ]
+        },
+        {
+          "title": "What is the difference between dynamic programming and divde and conquer?",
+          "options": [
+            {
+              "title": "They are the same concept."
+            },
+            {
+              "title": "Dynamic programming breaks down a problem intro smaller sub-problems and solves each only once, whiel divide and conquer may solve the same sub-problem multiple times.",
+              "correct": true
+            },
+            {
+              "title": "Divide and conquer is only suitable for small-scale problems."
+            }
+          ]
+        },
+        {
+          "title": "Explain the concept of NP-Completeness in algorithmic complexity theory.",
+          "options": [
+            {
+              "title": "The complexity of non-polynomial time algorithms."
+            },
+            {
+              "title": "A class of problems for which a solution can be verified quickly, but a solution can't be found quickly",
+              "correct": true
+            },
+            {
+              "title": "The simplicity of problems that can be solved in polynomial time"
+            }
+          ]
+        },
+        {
+          "title": "What is the significance of the P vs. NP problem in theoretical computer science?",
+          "options": [
+            {
+              "title": "It defines the difference between parallel and non-parallel algorithms."
+            },
+            {
+              "title": "It determines the speed of computer processors."
+            },
+            {
+              "title": "It explores the relationship between polynomial time and non-polynomial time algorithms.",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "In the context of algorithms, what is quantum computing's potential impact on problem-solving?",
+          "options": [
+            {
+              "title": "Quantum computers can solve certain problems exponentially faster than classical computers.",
+              "correct": true
+            },
+            {
+              "title": "Quantum computing has no impact on algorithmic complexity."
+            },
+            {
+              "title": "Quantum computing only works for simple algorithms."
+            }
+          ]
+        }
+      ]
+    },
+
+    "OOPI": {
+      "questions": [
+        {
+          "title": "What is the main concept of object-oriented programming (OOP)?",
+          "options": [
+            {
+              "title": "Algorithms"
+            },
+            {
+              "title": "Objects and classes",
+              "correct": true
+            },
+            {
+              "title": "Data structures"
+            }
+          ]
+        },
+        {
+          "title": "Which OOP principle is related to bundling data and methods that operate on the data into a single unit?",
+          "options": [
+            {
+              "title": "Polymorphism."
+            },
+            {
+              "title": "Encapsulation.",
+              "correct": true
+            },
+            {
+              "title": "Inheritance."
+            }
+          ]
+        },
+        {
+          "title": "What is the purpose of inheritance in OOP?",
+          "options": [
+            {
+              "title": "To define the relationship between objects and classes."
+            },
+            {
+              "title": "To reuse code and create a hierarchy of classes.",
+              "correct": true
+            },
+            {
+              "title": "To allow multiple classes to be combined into one."
+            }
+          ]
+        },
+        {
+          "title": "What is polymorphism in OOP?",
+          "options": [
+            {
+              "title": "The ability of a function to take different forms or behave differently based on the input.",
+              "correct": true
+            },
+            {
+              "title": "The ability of a class to have multiple constructors."
+            },
+            {
+              "title": "The process of creating multiple instances of a class."
+            }
+          ]
+        },
+        {
+          "title": "What is a virtual function in C++??",
+          "options": [
+            {
+              "title": "A function that doesn't have a body"
+            },
+            {
+              "title": "A function that can only be called once"
+            },
+            {
+              "title": "A function that can be overridden in a derived class",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "In OOP, what is composition?",
+          "options": [
+            {
+              "title": "A design principle that promotes code reuse by combining objects.",
+              "correct": true
+            },
+            {
+              "title": "A way to achieve multiple inheritance."
+            },
+            {
+              "title": "A technique for hiding the implementation details of a class."
+            }
+          ]
+        },
+        {
+          "title": "What is the difference between abstraction and encapsulation in OOP?",
+          "options": [
+            {
+              "title": "Abstraction is the bundling of data and methods, while encapsulation is a way to hide the complexity of the implementation."
+            },
+            {
+              "title": "Abstraction and encapsulation are synonymous in OOP."
+            },
+            {
+              "title": "Abstraction is a way to hide the complexity of the implementation, while encapsulation is the bundling of data and methods.",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "How does the concept of (interfaces) contribute to achieving multiple inheritance in some programming languages?",
+          "options": [
+            {
+              "title": "By allowing a class to inherit from multiple classes."
+            },
+            {
+              "title": "By enabling the creation of abstract classes."
+            },
+            {
+              "title": "By defining a contract for a set of methods that a class must implement.",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "What are the SOLID principles in object-oriented design?",
+          "options": [
+            {
+              "title": "Guidelines for naming variables and functions in object-oriented programming."
+            },
+            {
+              "title": "The fundamental data types used in OOP languages."
+            },
+            {
+              "title": "A set of five design principles for writing maintainable and scalable software.",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "In OOP, what is the difference between shallow copy and deep copy?",
+          "options": [
+            {
+              "title": "Shallow copy duplicates the entire object, while deep copy duplicates only the references.",
+              "correct": true
+            },
+            {
+              "title": "Shallow copy and deep copy refer to the same concept in OOP."
+            },
+            {
+              "title": "Shallow copy duplicates only the references, while deep copy duplicates the actual objects."
+            }
+          ]
+        }
+      ]
+    },
+
+
+    "software-requirement-analysis": {
+      "questions": [
+        {
+          "title": "What is the purpose of software requirement analysis?",
+          "options": [
+            {
+              "title": "To write the code for the software."
+            },
+            {
+              "title": "To gather, document, and understand the needs and constraints of the users and stakeholders.",
+              "correct": true
+            },
+            {
+              "title": "To design the user interface of the software."
+            }
+          ]
+        },
+        {
+          "title": "What is a user story in the context of requirement analysis?",
+          "options": [
+            {
+              "title": "A narrative description of a software feature from the user's perspective.",
+              "correct": true
+            },
+            {
+              "title": "A detailed technical specification."
+            },
+            {
+              "title": "A summary of project milestones."
+            }
+          ]
+        },
+        {
+          "title": "What is the difference between functional and non-functional requirements?",
+          "options": [
+            {
+              "title": "Functional requirements define what the system should do, while non-functional requirements define how well the system should do it.",
+              "correct": true
+            },
+            {
+              "title": "Functional requirements relate to hardware, while non-functional requirements relate to software."
+            },
+            {
+              "title": "Functional requirements are specific to the user interface, while non-functional requirements relate to the overall system architecture."
+            }
+          ]
+        },
+        {
+          "title": "What is the purpose of a use case in requirement analysis?",
+          "options": [
+            {
+              "title": "To document the testing scenarios."
+            },
+            {
+              "title": "To describe how a system interacts with external entities.",
+              "correct": true
+            },
+            {
+              "title": "To outline the software development timeline."
+            }
+          ]
+        },
+        {
+          "title": "What is the significance of traceability in requirement analysis?",
+          "options": [
+            {
+              "title": "It ensures that the requirements can be traced back to the project manager."
+            },
+            {
+              "title": "It establishes a link between requirements and other project artifacts, ensuring that changes are managed effectively.",
+              "correct": true
+            },
+            {
+              "title": "It helps in the design phase of the software development life cycle."
+            }
+          ]
+        },
+        {
+          "title": "What is the role of a prototype in requirement analysis?",
+          "options": [
+            {
+              "title": "To serve as the final version of the software."
+            },
+            {
+              "title": "To provide a visual representation of the software to gather feedback and validate requirements.",
+              "correct": true
+            },
+            {
+              "title": "To generate code automatically based on the requirements document."
+            }
+          ]
+        },
+        {
+          "title": "What is the Kano model used for in requirement analysis?",
+          "options": [
+            {
+              "title": "It assesses the risk associated with each requirement."
+            },
+            {
+              "title": "It prioritizes requirements based on their business value."
+            },
+            {
+              "title": "It classifies customer preferences into categories such as basic, performance, and excitement.",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "Explain the concept of the Moscow method in prioritizing requirements.",
+          "options": [
+            {
+              "title": "It classifies requirements into four categories: Must-haves, Should-haves, Could-haves, and Won't-haves.",
+              "correct": true
+            },
+            {
+              "title": "It evaluates requirements based on monetary value."
+            },
+            {
+              "title": "It categorizes requirements into technical and non-technical aspects."
+            }
+          ]
+        },
+        {
+          "title": "What is the role of a Business Analyst in software requirement analysis?",
+          "options": [
+            {
+              "title": "To write the code for the software."
+            },
+            {
+              "title": "To manage the project schedule."
+            },
+            {
+              "title": "To act as a liaison between business stakeholders and the development team, gathering and analysing requirements.",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "How does the concept of (agile) impact software requirement analysis?",
+          "options": [
+            {
+              "title": "Agile methods do not emphasize requirements; they focus solely on coding and testing."
+            },
+            {
+              "title": "Agile promotes iterative and collaborative approaches to requirement analysis, allowing for changes throughout the development process.",
+              "correct": true
+            },
+            {
+              "title": "Agile methods are only applicable to large-scale projects."
+            }
+          ]
+        }
+      ]
+    },
+
+
+    "data-structures": {
+      "questions": [
+        {
+          "title": "What is a data structure?",
+          "options": [
+            {
+              "title": "A method for writing code"
+            },
+            {
+              "title": "A format for database tables"
+            },
+            {
+              "title": "An arrangement of data elements that allows for efficient operations",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "Which of the following is an example of a linear data structure?",
+          "options": [
+            {
+              "title": "Binary tree"
+            },
+            {
+              "title": "Linked list",
+              "correct": true
+            },
+            {
+              "title": "Hash table"
+            }
+          ]
+        },
+        {
+          "title": "What is the time complexity of searching an element in a sorted array using binary search?",
+          "options": [
+            {
+              "title": "O(1)"
+            },
+            {
+              "title": "O(n)"
+            },
+            {
+              "title": "O(log n)",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "In the context of trees, what is the height of a binary tree with n nodes in the best case?",
+          "options": [
+            {
+              "title": "O(log n)",
+              "correct": true
+            },
+            {
+              "title": "O(n)"
+            },
+            {
+              "title": "O(n^2)"
+            }
+          ]
+        },
+        {
+          "title": "What is the main advantage of using a hash table for data storage?",
+          "options": [
+            {
+              "title": "Efficient for range queries"
+            },
+            {
+              "title": "Constant time complexity for all operations",
+              "correct": true
+            },
+            {
+              "title": "Effective for hierarchical data representation"
+            }
+          ]
+        },
+        {
+          "title": "What is the concept of amortised analysis in the context of data structures?",
+          "options": [
+            {
+              "title": "Analysing the worst-case time complexity of an algorithm"
+            },
+            {
+              "title": "Evaluating the average-case time complexity over multiple operations",
+              "correct": true
+            },
+            {
+              "title": "Assessing the best-case time complexity of a data structure"
+            }
+          ]
+        },
+        {
+          "title": "Explain the difference between a stack and a queue data structure.",
+          "options": [
+            {
+              "title": "A stack follows LIFO (Last In, First Out) order, while a queue follows FIFO (First In, First Out) order.",
+              "correct": true
+            },
+            {
+              "title": "A stack follows FIFO order, while a queue follows LIFO order."
+            },
+            {
+              "title": "Both stack and queue follow the same order of operations."
+            }
+          ]
+        },
+        {
+          "title": "What is the purpose of a self-balancing binary search tree, such as AVL or Red-Black Tree?",
+          "options": [
+            {
+              "title": "To ensure constant time complexity for all operations"
+            },
+            {
+              "title": "To automatically adjust its structure to maintain balance, optimising for efficient search and retrieval",
+              "correct": true
+            },
+            {
+              "title": "To provide a linear data structure for quick insertion and deletion"
+            }
+          ]
+        },
+        {
+          "title": "What is the difference between a graph and a tree in data structures?",
+          "options": [
+            {
+              "title": "A graph is always cyclic, while a tree is acyclic.",
+              "correct": true
+            },
+            {
+              "title": "A graph is a linear structure, while a tree is a hierarchical structure."
+            },
+            {
+              "title": "Both terms refer to the same data structure."
+            }
+          ]
+        },
+        {
+          "title": "Explain the concept of dynamic programming in the context of data structures.",
+          "options": [
+            {
+              "title": "It is a programming paradigm for writing code in a flexible, dynamic manner."
+            },
+            {
+              "title": "It is a method for optimizing database queries."
+            },
+            {
+              "title": "It is a technique for solving complex problems by breaking them down into simpler, overlapping subproblems.",
+              "correct": true
+            }
+          ]
+        }
+      ]
+    },
+    
+
+
+    "computer-architecture": {
+      "questions": [
+        {
+          "title": "What does CPU stand for?",
+          "options": [
+            {
+              "title": "Central Processing Unit",
+              "correct": true
+            },
+            {
+              "title": "Central Peripheral Unit"
+            },
+            {
+              "title": "Central Power Unit"
+            }
+          ]
+        },
+        {
+          "title": "Which component stores data temporarily for the CPU to quickly access?",
+          "options": [
+            {
+              "title": "RAM (Random Access Memory)",
+              "correct": true
+            },
+            {
+              "title": "ROM (Read-Only Memory)"
+            },
+            {
+              "title": "HDD (Hard Disk Drive)"
+            }
+          ]
+        },
+        {
+          "title": "What is the role of the ALU (Arithmetic Logic Unit) in a CPU?",
+          "options": [
+            {
+              "title": "Managing memory operations"
+            },
+            {
+              "title": "Performing arithmetic and logical operations",
+              "correct": true
+            },
+            {
+              "title": "Controlling input and output devices"
+            }
+          ]
+        },
+        {
+          "title": "What is the purpose of a cache memory in a computer system?",
+          "options": [
+            {
+              "title": "To store the operating system"
+            },
+            {
+              "title": "To temporarily store frequently accessed data for faster retrieval",
+              "correct": true
+            },
+            {
+              "title": "To manage input/output operations"
+            }
+          ]
+        },
+        {
+          "title": "What is pipelining in computer architecture?",
+          "options": [
+            {
+              "title": "A technique for parallel processing",
+              "correct": true
+            },
+            {
+              "title": "A type of memory organization"
+            },
+            {
+              "title": "The process of connecting multiple computers in a network"
+            }
+          ]
+        },
+        {
+          "title": "What is the Von Neumann architecture?",
+          "options": [
+            {
+              "title": "A type of computer memory"
+            },
+            {
+              "title": "An architecture where data and instructions share the same memory space",
+              "correct": true
+            },
+            {
+              "title": "A specific type of CPU"
+            }
+          ]
+        },
+        {
+          "title": "Explain the concept of RISC (Reduced Instruction Set Computing) architecture.",
+          "options": [
+            {
+              "title": "It uses a large set of instructions for complex operations"
+            },
+            {
+              "title": "It focuses on a small set of simple instructions to improve efficiency",
+              "correct": true
+            },
+            {
+              "title": "It is a type of parallel processing architecture"
+            }
+          ]
+        },
+        {
+          "title": "What is the role of the MMU (Memory Management Unit) in computer architecture?",
+          "options": [
+            {
+              "title": "It performs mathematical operations"
+            },
+            {
+              "title": "It manages the flow of data between the CPU and peripherals"
+            },
+            {
+              "title": "It translates virtual addresses to physical addresses for efficient memory access",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "What is the difference between Harvard architecture and Von Neumann architecture?",
+          "options": [
+            {
+              "title": "Harvard architecture has separate memory for data and instructions, while Von Neumann architecture uses a single memory space",
+              "correct": true
+            },
+            {
+              "title": "Harvard architecture uses a single memory space, while Von Neumann architecture has separate memory for data and instructions"
+            },
+            {
+              "title": "Harvard architecture is a type of caching technique"
+            }
+          ]
+        },
+        {
+          "title": "In the context of computer architecture, explain the concept of out-of-order execution.",
+          "options": [
+            {
+              "title": "It refers to executing instructions in the order they are fetched"
+            },
+            {
+              "title": "It allows executing instructions ahead of the original program order for improved performance",
+              "correct": true
+            },
+            {
+              "title": "It is a type of error-checking mechanism in the CPU"
+            }
+          ]
+        }
+      ]
+    },
+    
+
+
+    "OOPII": {
+      "questions": [
+        {
+          "title": "What is encapsulation in OOP?",
+          "options": [
+            {
+              "title": "Exposing internal implementation details"
+            },
+            {
+              "title": "Bundling data and methods into a single unit",
+              "correct": true
+            },
+            {
+              "title": "Allowing unrestricted access to class members"
+            }
+          ]
+        },
+        {
+          "title": "What is the purpose of the \"this\" keyword in OOP?",
+          "options": [
+            {
+              "title": "Referring to the current instance of a class",
+              "correct": true
+            },
+            {
+              "title": "Creating a new object"
+            },
+            {
+              "title": "Accessing static members of a class"
+            }
+          ]
+        },
+        {
+          "title": "In OOP, what is method overloading?",
+          "options": [
+            {
+              "title": "Defining multiple methods with the same name but different parameters",
+              "correct": true
+            },
+            {
+              "title": "Creating a method that calls another method"
+            },
+            {
+              "title": "Overriding a method in a subclass"
+            }
+          ]
+        },
+        {
+          "title": "What is the purpose of the \"super\" keyword in OOP?",
+          "options": [
+            {
+              "title": "Referring to a child class"
+            },
+            {
+              "title": "Calling the constructor of the parent class",
+              "correct": true
+            },
+            {
+              "title": "Identifying static methods"
+            }
+          ]
+        },
+        {
+          "title": "What is the concept of polymorphism in OOP?",
+          "options": [
+            {
+              "title": "The ability of a function to take different forms or behave differently based on the input",
+              "correct": true
+            },
+            {
+              "title": "Creating multiple instances of a class"
+            },
+            {
+              "title": "Restricting access to class members"
+            }
+          ]
+        },
+        {
+          "title": "Explain the concept of interfaces in OOP.",
+          "options": [
+            {
+              "title": "A way to implement multiple inheritance in programming languages"
+            },
+            {
+              "title": "A contract specifying a set of methods that a class must implement",
+              "correct": true
+            },
+            {
+              "title": "A type of data structure in OOP"
+            }
+          ]
+        },
+        {
+          "title": "What is the difference between abstraction and encapsulation in OOP?",
+          "options": [
+            {
+              "title": "Abstraction is a way to hide the complexity of the implementation, while encapsulation is the bundling of data and methods.",
+              "correct": true
+            },
+            {
+              "title": "Abstraction is the bundling of data and methods, while encapsulation is a way to hide the complexity of the implementation."
+            },
+            {
+              "title": "Abstraction and encapsulation are synonymous in OOP."
+            }
+          ]
+        },
+        {
+          "title": "What is the purpose of abstract classes in OOP?",
+          "options": [
+            {
+              "title": "To create classes without any methods"
+            },
+            {
+              "title": "To prevent instantiation and provide a base for other classes",
+              "correct": true
+            },
+            {
+              "title": "To hide the implementation details of a class"
+            }
+          ]
+        },
+        {
+          "title": "Explain the concept of covariance and contravariance in the context of OOP.",
+          "options": [
+            {
+              "title": "Covariance is the ability to assign an object of a derived class to a variable of the base class, and contravariance is the opposite.",
+              "correct": true
+            },
+            {
+              "title": "Covariance and contravariance refer to the same concept in OOP."
+            },
+            {
+              "title": "Covariance is the ability to assign an object of the base class to a variable of the derived class, and contravariance is the opposite."
+            }
+          ]
+        },
+        {
+          "title": "What is the role of design patterns in OOP, and provide an example of a commonly used design pattern.",
+          "options": [
+            {
+              "title": "Design patterns define the layout of graphical user interfaces; an example is the Observer pattern."
+            },
+            {
+              "title": "Design patterns are best practices for structuring code; an example is the Singleton pattern.",
+              "correct": true
+            },
+            {
+              "title": "Design patterns are used for encryption algorithms; an example is the Strategy pattern."
+            }
+          ]
+        }
+      ]
+    },
+    
+
+
+
+    "software-design-and-architecture": {
+      "questions": [
+        {
+          "title": "What is software design?",
+          "options": [
+            {
+              "title": "The process of coding a program"
+            },
+            {
+              "title": "The process of creating a blueprint for a software solution",
+              "correct": true
+            },
+            {
+              "title": "The process of testing a software application"
+            }
+          ]
+        },
+        {
+          "title": "What is the purpose of UML (Unified Modelling Language) in software design?",
+          "options": [
+            {
+              "title": "To write code"
+            },
+            {
+              "title": "To model and visualise software systems",
+              "correct": true
+            },
+            {
+              "title": "To manage project schedules"
+            }
+          ]
+        },
+        {
+          "title": "What is the role of architectural patterns in software design?",
+          "options": [
+            {
+              "title": "They define the high-level structure and behaviour of a software system",
+              "correct": true
+            },
+            {
+              "title": "They focus on optimising algorithms"
+            },
+            {
+              "title": "They are only relevant during the coding phase"
+            }
+          ]
+        },
+        {
+          "title": "What is the difference between monolithic and micro services architecture?",
+          "options": [
+            {
+              "title": "Monolithic architecture is modular, while micro-services architecture is a single, unified structure"
+            },
+            {
+              "title": "Micro-services architecture divides the application into small, independent services, while monolithic architecture is a single, unified structure",
+              "correct": true
+            },
+            {
+              "title": "Both terms refer to the same architectural style"
+            }
+          ]
+        },
+        {
+          "title": "What is the SOLID principles in software design?",
+          "options": [
+            {
+              "title": "A set of principles for writing maintainable and scalable software",
+              "correct": true
+            },
+            {
+              "title": "A set of guidelines for choosing software development tools"
+            },
+            {
+              "title": "A set of rules for optimising database queries"
+            }
+          ]
+        },
+        {
+          "title": "Explain the concept of a design pattern in software architecture.",
+          "options": [
+            {
+              "title": "A reusable solution to common problems that occur in software design",
+              "correct": true
+            },
+            {
+              "title": "A specific set of colors and fonts used in the user interface"
+            },
+            {
+              "title": "A formal document outlining the software requirements"
+            }
+          ]
+        },
+        {
+          "title": "What is the role of the Dependency Injection pattern in software design?",
+          "options": [
+            {
+              "title": "It helps manage database connections"
+            },
+            {
+              "title": "It allows for the inversion of control, facilitating the creation and management of object dependencies",
+              "correct": true
+            },
+            {
+              "title": "It ensures data consistency in distributed systems"
+            }
+          ]
+        },
+        {
+          "title": "What is the difference between horizontal and vertical scaling in the context of software architecture?",
+          "options": [
+            {
+              "title": "Horizontal scaling involves adding more machines to a network, while vertical scaling involves adding more resources to a single machine",
+              "correct": true
+            },
+            {
+              "title": "Horizontal scaling involves adding more resources to a single machine, while vertical scaling involves adding more machines to a network"
+            },
+            {
+              "title": "Both terms refer to the same concept in software architecture"
+            }
+          ]
+        },
+        {
+          "title": "Explain the concept of event-driven architecture in software design.",
+          "options": [
+            {
+              "title": "It involves optimising algorithms based on user events"
+            },
+            {
+              "title": "It is an architectural style where components communicate by events triggered by external actions",
+              "correct": true
+            },
+            {
+              "title": "It is a method for designing database schemas"
+            }
+          ]
+        },
+        {
+          "title": "In the context of software architecture, what is the significance of the CAP theorem?",
+          "options": [
+            {
+              "title": "It defines the principles of database normalisation"
+            },
+            {
+              "title": "It explores the trade-offs between consistency, availability, and partition tolerance in distributed systems",
+              "correct": true
+            },
+            {
+              "title": "It is a framework for evaluating the efficiency of algorithms"
+            }
+          ]
+        }
+      ]
+    },
+    
+
+    "software-construction": {
+      "questions": [
+        {
+          "title": "What is the purpose of a version control system (VCS) in software development?",
+          "options": [
+            {
+              "title": "To track changes in the hardware",
+              "correct": true
+            },
+            {
+              "title": "To manage and track changes in the source code"
+            },
+            {
+              "title": "To optimize database queries"
+            }
+          ]
+        },
+        {
+          "title": "What is the role of a compiler in the software construction process?",
+          "options": [
+            {
+              "title": "To translate source code into machine code",
+              "correct": true
+            },
+            {
+              "title": "To execute the program"
+            },
+            {
+              "title": "To manage project schedules"
+            }
+          ]
+        },
+        {
+          "title": "What is the significance of unit testing in software construction?",
+          "options": [
+            {
+              "title": "To verify the correctness of individual units or components"
+            },
+            {
+              "title": "To test the entire system as a whole",
+              "correct": true
+            },
+            {
+              "title": "To optimize algorithm efficiency"
+            }
+          ]
+        },
+        {
+          "title": "What is the purpose of a coding standard in software development?",
+          "options": [
+            {
+              "title": "To enforce a consistent style and improve code readability",
+              "correct": true
+            },
+            {
+              "title": "To specify the hardware requirements for a program"
+            },
+            {
+              "title": "To limit creativity in coding"
+            }
+          ]
+        },
+        {
+          "title": "What is the role of a static code analyzer in the software construction process?",
+          "options": [
+            {
+              "title": "To identify runtime errors",
+              "correct": true
+            },
+            {
+              "title": "To optimize database performance"
+            },
+            {
+              "title": "To analyze source code without executing it, finding potential issues"
+            }
+          ]
+        },
+        {
+          "title": "Explain the concept of continuous integration in software development.",
+          "options": [
+            {
+              "title": "It involves automatically integrating code changes from multiple developers into a shared repository frequently"
+            },
+            {
+              "title": "It refers to a one-time integration of code before deployment"
+            },
+            {
+              "title": "It is a method for optimizing SQL queries",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "What is the difference between agile and waterfall software development methodologies?",
+          "options": [
+            {
+              "title": "Agile and waterfall are two terms for the same methodology",
+              "correct": true
+            },
+            {
+              "title": "Agile focuses on iterative development and flexibility, while waterfall follows a linear, sequential approach"
+            },
+            {
+              "title": "Agile is a method for hardware development, while waterfall is for software development"
+            }
+          ]
+        },
+        {
+          "title": "In the context of software construction, what is the significance of the DRY (Don't Repeat Yourself) principle?",
+          "options": [
+            {
+              "title": "It encourages redundancy in code for better understanding"
+            },
+            {
+              "title": "It promotes code reusability by avoiding duplication"
+            },
+            {
+              "title": "It discourages using comments in the code",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "What is the role of design patterns in software construction?",
+          "options": [
+            {
+              "title": "Design patterns are templates for graphical user interfaces",
+              "correct": true
+            },
+            {
+              "title": "Design patterns are reusable solutions to common problems in software design"
+            },
+            {
+              "title": "Design patterns are only applicable in the testing phase"
+            }
+          ]
+        },
+        {
+          "title": "Explain the concept of pair programming in software development.",
+          "options": [
+            {
+              "title": "It involves writing code individually without collaboration"
+            },
+            {
+              "title": "It is a method for database schema design",
+              "correct": true
+            },
+            {
+              "title": "It is a practice where two programmers work together at one workstation, with one typing and the other reviewing and providing feedback"
+            }
+          ]
+        }
+      ]
+    },
+    
+
+    "database-management-systems": {
+      "questions": [
+        {
+          "title": "What is a primary key in a database?",
+          "options": [
+            {
+              "title": "A unique identifier for a record in a table",
+              "correct": true
+            },
+            {
+              "title": "A table that stores only primary data"
+            },
+            {
+              "title": "An index for speeding up query performance"
+            }
+          ]
+        },
+        {
+          "title": "What is the purpose of the SQL SELECT statement?",
+          "options": [
+            {
+              "title": "To insert data into a table"
+            },
+            {
+              "title": "To retrieve data from a database",
+              "correct": true
+            },
+            {
+              "title": "To update existing records in a table"
+            }
+          ]
+        },
+        {
+          "title": "In the context of database normalisation, what is the goal of the Third Normal Form (3NF)?",
+          "options": [
+            {
+              "title": "To eliminate data redundancy",
+              "correct": true
+            },
+            {
+              "title": "To ensure referential integrity"
+            },
+            {
+              "title": "To create composite keys"
+            }
+          ]
+        },
+        {
+          "title": "What is the purpose of an index in a database table?",
+          "options": [
+            {
+              "title": "To define the primary key"
+            },
+            {
+              "title": "To enforce data integrity constraints"
+            },
+            {
+              "title": "To improve query performance by facilitating faster data retrieval",
+              "correct": true
+            }
+          ]
+        },
+        {
+          "title": "Explain the concept of ACID properties in database transactions.",
+          "options": [
+            {
+              "title": "A set of properties that ensure atomicity, consistency, isolation, and durability of transactions",
+              "correct": true
+            },
+            {
+              "title": "A mechanism for encrypting data in the database"
+            },
+            {
+              "title": "A method for optimising query execution plans"
+            }
+          ]
+        },
+        {
+          "title": "What is the role of a foreign key in a relational database?",
+          "options": [
+            {
+              "title": "To uniquely identify each record in a table"
+            },
+            {
+              "title": "To establish a link between two tables based on a common attribute",
+              "correct": true
+            },
+            {
+              "title": "To enforce primary key constraints"
+            }
+          ]
+        },
+        {
+          "title": "What is the difference between a clustered and a non-clustered index in a database?",
+          "options": [
+            {
+              "title": "A clustered index determines the physical order of data, while a non-clustered index does not affect the physical order.",
+              "correct": true
+            },
+            {
+              "title": "A non-clustered index determines the physical order of data, while a clustered index does not affect the physical order."
+            },
+            {
+              "title": "Both terms are synonymous and can be used interchangeably."
+            }
+          ]
+        },
+        {
+          "title": "Explain the concept of database sharing.",
+          "options": [
+            {
+              "title": "It is a process of encrypting database tables for security purposes"
+            },
+            {
+              "title": "It involves dividing a large database into smaller, more manageable parts called shards to improve performance and scalability",
+              "correct": true
+            },
+            {
+              "title": "It is a method for defining complex queries in SQL"
+            }
+          ]
+        },
+        {
+          "title": "What is the purpose of a database view?",
+          "options": [
+            {
+              "title": "To physically store data in the database"
+            },
+            {
+              "title": "To create a virtual table that is based on the result of a SELECT query",
+              "correct": true
+            },
+            {
+              "title": "To enforce data integrity constraints"
+            }
+          ]
+        },
+        {
+          "title": "In the context of database security, what is the principle of least privilege?",
+          "options": [
+            {
+              "title": "It refers to granting users the maximum level of access to the database"
+            },
+            {
+              "title": "It is the practice of providing users with the minimum level of access required to perform their tasks",
+              "correct": true
+            },
+            {
+              "title": "It is a method for encrypting database backups"
+            }
+          ]
+        }
+      ]
+    }    
+  },
+
+  
+  "videos": [
+    {
+      "title": "CPP A complete and modern course for beginners",
+      "link": "FpfHmAkRVK4"
+    },
+    {
+      "title": "C++ Basics in One Shot - Strivers A2Z DSA Course - L1",
+      "link": "EAR7De6Goz4"
+    },
+    {
+      "title": "TypeScript Tutorial for Beginners",
+      "link": "d56mG7DezGs"
+    },
+    {
+      "title": "NestJs Course for Beginners - Create a REST API",
+      "link": "GHTA143_b-s"
+    },
+    {
+      "title": "Time and Space Complexity - Strivers A2Z DSA Course",
+      "link": "FPu9Uld7W-E"
+    },
+    {
+      "title": "How to pass data with useNavigate hook in React.js | use of useLocation Hook in ReactJS in Hindi",
+      "link": "1qPzmBlTlJQ"
+    },
+    {
+      "title": "#46 React Router v6 Private Route Tutorial",
+      "link": "99RWZsEITx4"
+    },
+    {
+      "title": "Lecture 3: ER Model Explained || ER Diagram Notations || DBMS for Placements",
+      "link": "kMHJhhIx5k4"
+    },
+    {
+      "title": "Sorting - Part 1 | Selection Sort, Bubble Sort, Insertion Sort | Strivers A2Z DSA Course",
+      "link": "HGk_ypEuS24"
+    },
+    {
+      "title": "#2 React Virtual DOM Explained - Easy Explanation - React Tutorial Bangla Series",
+      "link": "2C5834qx0sA"
+    },
+    {
+      "title": "Lecture 9: Complete SQL in 1 VIDEO",
+      "link": "D_wNQR3LeeM"
+    },
+    {
+      "title": "Complete C++ STL in 1 Video | Time Complexity and Notes",
+      "link": "RRVYpIET_RU"
+    },
+    {
+      "title": "Asynchronous JavaScript & EVENT LOOP from scratch 🔥 | Namaste JavaScript Ep.15",
+      "link": "8zKuNo4ay8E"
+    },
+    {
+      "title": "Node Js Tutorial in Hindi 🔥🔥",
+      "link": "BLl32FvcdVM"
+    },
+    {
+      "title": "Complete Git and GitHub Tutorial",
+      "link": "apGV9Kg7ics"
+    },
+    {
+      "title": "Python Tutorial - Python Full Course for Beginners",
+      "link": "_uQrJ0TkZlc"
+    },
+    {
+      "title": "Learn React Router v6 In 45 Minutes",
+      "link": "Ul3y1LXxzdU"
+    },
+    {
+      "title": "Java Collections Framework | Java Placement Course",
+      "link": "VphowcSkBX4"
+    },
+    {
+      "title": "React Router v6 Tutorial in Hindi #9: useNavigate Hook 🔥",
+      "link": "CPdMl4CzgqY"
+    },
+    {
+      "title": "Functions / Methods in Java",
+      "link": "vvanI8NRlSI"
+    },
+    {
+      "title": "Docker Tutorial for Beginners",
+      "link": "pTFZFxd4hOI"
+    },
+    {
+      "title": "HTML Tutorial For Beginners In Hindi (With Notes) 🔥",
+      "link": "BsDoLVMnmZs"
+    },
+    {
+      "title": "Java OOPs in One Shot | Object Oriented Programming | Java Language | Placement Course",
+      "link": "bSrm9RXwBaI"
+    },
+    {
+      "title": "MySQL Tutorial for Beginners [Full Course]",
+      "link": "7S_tz1z_5bA"
+    },
+    {
+      "title": "C Programming Tutorial For Beginners: Learn C In Hindi",
+      "link": "YXcgD8hRHYY"
+    },
+    {
+      "title": "Node.js Tutorial for Beginners: Learn Node in 1 Hour",
+      "link": "TlB_eWDSMt4"
+    },
+    {
+      "title": "Debounce Function in JavaScript - JavaScript Job Interview question",
+      "link": "dD9O8DnIBj4"
+    },
+    {
+      "title": "Java Swing For Beginners | What is Java Swing | Java Swing Tutorial | Intellipaat",
+      "link": "6zm8c6QFmjo"
+    }
+  ]
+}
