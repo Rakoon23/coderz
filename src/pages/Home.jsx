@@ -1,7 +1,7 @@
 import { useState } from 'react';
 
 import { hero } from '../assets';
-import { BasicInfo, ContactUs, Footer, PopularQuizzes } from '../components';
+import { BasicInfo, ContactUs, Footer } from '../components';
 
 function Home() {
   const [imageLoaded, setImageLoaded] = useState(false);
@@ -13,9 +13,7 @@ function Home() {
       }`}
     >
       <div className="relative mx-auto aspect-[8/5] max-w-xl overflow-hidden px-4 xl:mt-8 2xl:max-w-3xl">
-        <div className="absolute left-0 top-0 flex w-full justify-center pr-1">
-          
-        </div>
+      
 
         <img
           alt=""

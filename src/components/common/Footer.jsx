@@ -8,7 +8,7 @@ function Footer() {
       <div className="md:mr-10 md:flex md:justify-between">
         <div className="-ml-1 mb-6 md:mb-0">
           <Link className="flex items-center" to="/">
-            <img alt="Quizzy Logo" className="mr-1 h-8 rounded-full sm:h-9" src={logo} />
+            <img alt="Coderz Logo" className="mr-1 h-8 rounded-full sm:h-9" src={logo} />
             <span className="self-center whitespace-nowrap text-xl font-semibold text-primary sm:text-2xl">
               Coderz
             </span>
@@ -61,7 +61,7 @@ function Footer() {
             Developed by: &nbsp;
             <a
               className="cursor-pointer hover:underline"
-              href="."
+              href="https://github.com/Rakoon23"
               rel="noopener noreferrer"
               target="_blank"
             >
