@@ -1,5 +1,4 @@
-export { default as certificateTemplate } from './Quizzy_Certificate.pdf';
-export { default as coding } from './images/Coding.webp';
+export { default as certificateTemplate } from './Coderz_Certificate.pdf';
 export { default as error } from './images/Error.svg';
 export { default as google } from './images/Google.svg';
 export { default as hero } from './images/Hero.webp';

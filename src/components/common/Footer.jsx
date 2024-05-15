@@ -61,7 +61,7 @@ function Footer() {
             Developed by: &nbsp;
             <a
               className="cursor-pointer hover:underline"
-              href="https://www.shibamsaha.dev"
+              href="."
               rel="noopener noreferrer"
               target="_blank"
             >

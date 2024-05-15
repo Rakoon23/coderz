@@ -30,7 +30,7 @@ function About() {
         Developed by &nbsp;
         <a
           className="cursor-pointer hover:underline"
-          href="https://www.shibamsaha.dev"
+          href="https://github.com/Rakoon23"
           rel="noreferrer"
           target="_blank"
         >

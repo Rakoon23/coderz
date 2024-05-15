@@ -5,7 +5,7 @@ const reasons = [
     image: 'help',
     heading: 'Wide Range of Topics',
     description:
-      'We provide a diverse selection of quizzes on a wide range of topics. Whatever computer science topics you are looking for, want to improve your general knowledge, or have a particular interest, you can find quizzes that cater to your needs.'
+      'We provide a diverse selection of quizzes on a wide range of topics. Whatever software engineer topics you are looking for, want to improve your general knowledge, or have a particular interest, you can find quizzes that cater to your needs.'
   },
   {
     image: 'smart_display',

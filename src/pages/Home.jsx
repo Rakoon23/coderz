@@ -1,6 +1,6 @@
 import { useState } from 'react';
 
-import { coding, hero } from '../assets';
+import { hero } from '../assets';
 import { BasicInfo, ContactUs, Footer, PopularQuizzes } from '../components';
 
 function Home() {
@@ -14,11 +14,7 @@ function Home() {
     >
       <div className="relative mx-auto aspect-[8/5] max-w-xl overflow-hidden px-4 xl:mt-8 2xl:max-w-3xl">
         <div className="absolute left-0 top-0 flex w-full justify-center pr-1">
-          {/* <img
-            alt=""
-            className="w-12 origin-center animate-rotate rounded-md drop-shadow-md md:w-20 md:rounded-xl"
-            src={coding}
-          /> */}
+          
         </div>
 
         <img
@@ -45,7 +41,7 @@ function Home() {
       </div>
 
       <BasicInfo />
-      <PopularQuizzes />
+      {/* <PopularQuizzes /> */}
       <ContactUs />
       <Footer />
     </div>
